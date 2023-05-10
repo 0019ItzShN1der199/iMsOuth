@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+}
+
+h2 {
+    font-family: Arial;
+}
+
+h3 {
+    font-family: Arial;
+}
+
+.error-message {
+    color: red;
+}
+
+.done-message {
+    color: rgb(0, 207, 0);
+}

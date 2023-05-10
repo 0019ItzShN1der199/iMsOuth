@@ -1,0 +1,23 @@
+{
+  "name": "ouath2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.2.0",
+    "chalk": "^2.4.2",
+    "discord-oauth2": "^2.10.1",
+    "discord.js": "^14.6.0",
+    "dotenv": "^16.0.3",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "mongoose": "^6.7.2",
+    "node-fetch": "^2.6.0"
+  }
+}
